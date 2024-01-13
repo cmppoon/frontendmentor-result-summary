@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "HakenGrotesk";
+  font-display: swap;
+  font-weight: 100 900;
+  src: url("./fonts/HankenGrotesk-VariableFont_wght.ttf");
+}
